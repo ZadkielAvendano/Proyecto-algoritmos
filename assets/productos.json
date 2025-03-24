@@ -1,0 +1,609 @@
+[
+    {
+        "id": 1,
+        "name": "Aceite para diferencial 1",
+        "description": "Alta calidad",
+        "price": 64.14,
+        "category": "aceites",
+        "inventory": 347,
+        "compatible_vehicles": [
+            "Ford Fiesta"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Filtro de transmisión automática 2",
+        "description": "Recomendado para vehículos",
+        "price": 7.19,
+        "category": "empacaduras",
+        "inventory": 123,
+        "compatible_vehicles": [
+            "Ford Fiesta",
+            "Toyota Corolla"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Filtro de transmisión automática 3",
+        "description": "Producto resistente",
+        "price": 65.98,
+        "category": "grasas",
+        "inventory": 493,
+        "compatible_vehicles": [
+            "Nissan Sentra"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Filtro de combustible extra 4",
+        "description": "De larga duración",
+        "price": 85.47,
+        "category": "gomas",
+        "inventory": 12,
+        "compatible_vehicles": [
+            "Honda Civic",
+            "Nissan Sentra",
+            "Nissan Sentra"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Filtro de aire 5",
+        "description": "Alta calidad",
+        "price": 5.7,
+        "category": "filtros",
+        "inventory": 184,
+        "compatible_vehicles": [
+            "Ford Fiesta",
+            "Toyota Corolla"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Goma de motor 6",
+        "description": "De larga duración",
+        "price": 34.79,
+        "category": "tren delantero",
+        "inventory": 381,
+        "compatible_vehicles": [
+            "Chevrolet Aveo"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Aceite sintético 5W-30 7",
+        "description": "De larga duración",
+        "price": 38.15,
+        "category": "motor",
+        "inventory": 42,
+        "compatible_vehicles": [
+            "Toyota Corolla",
+            "Ford Fiesta"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Filtro de combustible 8",
+        "description": "Alta calidad",
+        "price": 136.76,
+        "category": "gomas",
+        "inventory": 22,
+        "compatible_vehicles": [
+            "Ford Fiesta",
+            "Toyota Corolla"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Aceite de motor diesel 9",
+        "description": "Alta calidad",
+        "price": 76.04,
+        "category": "empacaduras",
+        "inventory": 383,
+        "compatible_vehicles": [
+            "Chevrolet Aveo",
+            "Chevrolet Aveo"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Rodamiento de rueda delantera 10",
+        "description": "Producto resistente",
+        "price": 109.4,
+        "category": "tren delantero",
+        "inventory": 335,
+        "compatible_vehicles": [
+            "Nissan Sentra",
+            "Chevrolet Aveo",
+            "Chevrolet Aveo"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Aceite 10W-40 11",
+        "description": "Recomendado para vehículos",
+        "price": 63.67,
+        "category": "aceites",
+        "inventory": 249,
+        "compatible_vehicles": [
+            "Toyota Corolla"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Goma de suspensión 12",
+        "description": "Producto resistente",
+        "price": 114.25,
+        "category": "aceites",
+        "inventory": 134,
+        "compatible_vehicles": [
+            "Honda Civic",
+            "Nissan Sentra",
+            "Ford Fiesta"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Empacadura del cárter 13",
+        "description": "Producto resistente",
+        "price": 5.26,
+        "category": "empacaduras",
+        "inventory": 52,
+        "compatible_vehicles": [
+            "Nissan Sentra",
+            "Toyota Corolla"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Rodamiento del eje 14",
+        "description": "Alta calidad",
+        "price": 142.09,
+        "category": "grasas",
+        "inventory": 436,
+        "compatible_vehicles": [
+            "Chevrolet Aveo",
+            "Chevrolet Aveo",
+            "Ford Fiesta"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Aceite para turbo 15",
+        "description": "Recomendado para vehículos",
+        "price": 97.5,
+        "category": "aceites",
+        "inventory": 448,
+        "compatible_vehicles": [
+            "Toyota Corolla"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Aceite de frenos 16",
+        "description": "De larga duración",
+        "price": 95.55,
+        "category": "aceites",
+        "inventory": 96,
+        "compatible_vehicles": [
+            "Toyota Corolla",
+            "Toyota Corolla"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Rodamiento de rueda 17",
+        "description": "Producto resistente",
+        "price": 91.27,
+        "category": "aceites",
+        "inventory": 294,
+        "compatible_vehicles": [
+            "Honda Civic"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Aceite de frenos 18",
+        "description": "De larga duración",
+        "price": 48.39,
+        "category": "gomas",
+        "inventory": 444,
+        "compatible_vehicles": [
+            "Toyota Corolla",
+            "Ford Fiesta"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Goma de base 19",
+        "description": "De larga duración",
+        "price": 134.77,
+        "category": "grasas",
+        "inventory": 59,
+        "compatible_vehicles": [
+            "Honda Civic",
+            "Honda Civic",
+            "Honda Civic"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Empacadura de cárter 20",
+        "description": "Alta calidad",
+        "price": 6.36,
+        "category": "motor",
+        "inventory": 189,
+        "compatible_vehicles": [
+            "Toyota Corolla"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Aceite de cadena 21",
+        "description": "Recomendado para vehículos",
+        "price": 78.24,
+        "category": "aceites",
+        "inventory": 245,
+        "compatible_vehicles": [
+            "Toyota Corolla"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Aceite sintético 5W-30 22",
+        "description": "Producto resistente",
+        "price": 127.63,
+        "category": "filtros",
+        "inventory": 297,
+        "compatible_vehicles": [
+            "Honda Civic",
+            "Honda Civic",
+            "Ford Fiesta"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Filtro de transmisión automática 23",
+        "description": "Recomendado para vehículos",
+        "price": 60.52,
+        "category": "motor",
+        "inventory": 373,
+        "compatible_vehicles": [
+            "Ford Fiesta",
+            "Ford Fiesta",
+            "Nissan Sentra"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Filtro de partículas 24",
+        "description": "Alta calidad",
+        "price": 130.97,
+        "category": "filtros",
+        "inventory": 80,
+        "compatible_vehicles": [
+            "Toyota Corolla",
+            "Honda Civic"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Aceite sintético 5W-30 25",
+        "description": "De larga duración",
+        "price": 147.74,
+        "category": "filtros",
+        "inventory": 334,
+        "compatible_vehicles": [
+            "Ford Fiesta",
+            "Honda Civic"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Grasa de alta temperatura 26",
+        "description": "Producto resistente",
+        "price": 27.44,
+        "category": "empacaduras",
+        "inventory": 77,
+        "compatible_vehicles": [
+            "Chevrolet Aveo",
+            "Ford Fiesta"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Aceite de motor diesel 27",
+        "description": "Producto resistente",
+        "price": 114.86,
+        "category": "motor",
+        "inventory": 17,
+        "compatible_vehicles": [
+            "Ford Fiesta",
+            "Nissan Sentra",
+            "Chevrolet Aveo"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Filtro de combustible extra 28",
+        "description": "Producto resistente",
+        "price": 136.12,
+        "category": "tren delantero",
+        "inventory": 144,
+        "compatible_vehicles": [
+            "Chevrolet Aveo"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Filtro de partículas 29",
+        "description": "Recomendado para vehículos",
+        "price": 70.98,
+        "category": "tren delantero",
+        "inventory": 198,
+        "compatible_vehicles": [
+            "Ford Fiesta"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Tren delantero reforzado 30",
+        "description": "Producto resistente",
+        "price": 120.06,
+        "category": "tren delantero",
+        "inventory": 451,
+        "compatible_vehicles": [
+            "Nissan Sentra",
+            "Ford Fiesta",
+            "Ford Fiesta"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Aceite sintético 5W-30 31",
+        "description": "De larga duración",
+        "price": 113.49,
+        "category": "rodamientos",
+        "inventory": 289,
+        "compatible_vehicles": [
+            "Chevrolet Aveo",
+            "Toyota Corolla"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Filtro de aire 32",
+        "description": "Alta calidad",
+        "price": 140.15,
+        "category": "filtros",
+        "inventory": 243,
+        "compatible_vehicles": [
+            "Chevrolet Aveo",
+            "Toyota Corolla"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Goma de puerta 33",
+        "description": "De larga duración",
+        "price": 100.39,
+        "category": "gomas",
+        "inventory": 32,
+        "compatible_vehicles": [
+            "Chevrolet Aveo",
+            "Ford Fiesta",
+            "Chevrolet Aveo"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Empacadura de tapa 34",
+        "description": "Producto resistente",
+        "price": 28.35,
+        "category": "rodamientos",
+        "inventory": 290,
+        "compatible_vehicles": [
+            "Ford Fiesta",
+            "Honda Civic"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Empacadura de turbo 35",
+        "description": "Alta calidad",
+        "price": 72.51,
+        "category": "tren delantero",
+        "inventory": 345,
+        "compatible_vehicles": [
+            "Ford Fiesta",
+            "Honda Civic",
+            "Nissan Sentra"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Empacadura de turbo 36",
+        "description": "Producto resistente",
+        "price": 94.73,
+        "category": "aceites",
+        "inventory": 195,
+        "compatible_vehicles": [
+            "Nissan Sentra",
+            "Chevrolet Aveo"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Filtro de partículas 37",
+        "description": "Recomendado para vehículos",
+        "price": 95.76,
+        "category": "rodamientos",
+        "inventory": 75,
+        "compatible_vehicles": [
+            "Chevrolet Aveo",
+            "Nissan Sentra",
+            "Honda Civic"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Filtro de combustible 38",
+        "description": "Producto resistente",
+        "price": 84.85,
+        "category": "grasas",
+        "inventory": 65,
+        "compatible_vehicles": [
+            "Chevrolet Aveo"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Rodamiento de rueda trasera 39",
+        "description": "Alta calidad",
+        "price": 73.66,
+        "category": "aceites",
+        "inventory": 467,
+        "compatible_vehicles": [
+            "Toyota Corolla",
+            "Toyota Corolla",
+            "Nissan Sentra"
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Aceite sintético 5W-30 40",
+        "description": "Producto resistente",
+        "price": 31.94,
+        "category": "gomas",
+        "inventory": 22,
+        "compatible_vehicles": [
+            "Honda Civic",
+            "Toyota Corolla",
+            "Ford Fiesta"
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Tren delantero reforzado 41",
+        "description": "De larga duración",
+        "price": 24.28,
+        "category": "gomas",
+        "inventory": 228,
+        "compatible_vehicles": [
+            "Ford Fiesta",
+            "Ford Fiesta"
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Aceite sintético 5W-30 42",
+        "description": "Recomendado para vehículos",
+        "price": 83.95,
+        "category": "rodamientos",
+        "inventory": 333,
+        "compatible_vehicles": [
+            "Honda Civic"
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Filtro de transmisión 43",
+        "description": "De larga duración",
+        "price": 45.32,
+        "category": "grasas",
+        "inventory": 369,
+        "compatible_vehicles": [
+            "Honda Civic",
+            "Chevrolet Aveo",
+            "Toyota Corolla"
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Empacadura de admisión 44",
+        "description": "Producto resistente",
+        "price": 71.05,
+        "category": "tren delantero",
+        "inventory": 56,
+        "compatible_vehicles": [
+            "Toyota Corolla",
+            "Ford Fiesta",
+            "Ford Fiesta"
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Aceite de motor diesel 45",
+        "description": "Producto resistente",
+        "price": 83.47,
+        "category": "rodamientos",
+        "inventory": 116,
+        "compatible_vehicles": [
+            "Nissan Sentra",
+            "Nissan Sentra"
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Grasa sintética 46",
+        "description": "Producto resistente",
+        "price": 133.86,
+        "category": "grasas",
+        "inventory": 177,
+        "compatible_vehicles": [
+            "Chevrolet Aveo",
+            "Chevrolet Aveo"
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Filtro de combustible extra 47",
+        "description": "Producto resistente",
+        "price": 84.7,
+        "category": "tren delantero",
+        "inventory": 300,
+        "compatible_vehicles": [
+            "Toyota Corolla",
+            "Honda Civic",
+            "Honda Civic"
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Goma de base 48",
+        "description": "Recomendado para vehículos",
+        "price": 42.52,
+        "category": "rodamientos",
+        "inventory": 339,
+        "compatible_vehicles": [
+            "Nissan Sentra",
+            "Ford Fiesta",
+            "Ford Fiesta"
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Empacadura de tapa 49",
+        "description": "De larga duración",
+        "price": 121.51,
+        "category": "tren delantero",
+        "inventory": 340,
+        "compatible_vehicles": [
+            "Toyota Corolla",
+            "Chevrolet Aveo",
+            "Chevrolet Aveo"
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Filtro de gasoil 50",
+        "description": "De larga duración",
+        "price": 63.87,
+        "category": "motor",
+        "inventory": 134,
+        "compatible_vehicles": [
+            "Toyota Corolla",
+            "Nissan Sentra"
+        ]
+    }
+]
