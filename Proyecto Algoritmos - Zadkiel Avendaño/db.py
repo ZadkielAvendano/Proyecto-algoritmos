@@ -10,7 +10,7 @@ from pagos import Pago
 from ventas import Venta
 from envios import Envio
 
-API = "https://raw.githubusercontent.com/Algoritmos-y-Programacion/api-proyecto/main/products.json"
+API = "https://raw.githubusercontent.com/ZadkielAvendano/Proyecto-algoritmos/refs/heads/main/Proyecto%20Algoritmos%20-%20Zadkiel%20Avenda%C3%B1o/assets/productos.json"
 
 # Obtiene todos los datos de la base de datos local. Si no existen los crea a partir de la API
 def obtener_datos():
